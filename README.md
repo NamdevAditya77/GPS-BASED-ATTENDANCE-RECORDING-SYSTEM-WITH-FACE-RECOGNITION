@@ -1,2 +1,2 @@
 # GPS-BASED-ATTENDANCE-RECORDING-SYSTEM-WITH-FACE-RECOGNITION
-An attendance recording system which utilizes gps and facial recognition technology with an aim to allow only  valid attendances to be recorded .
+An attendance recording system that utilizes GPS and facial recognition technology intending to allow only  valid attendances to be recorded .
